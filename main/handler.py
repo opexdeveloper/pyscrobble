@@ -11,7 +11,7 @@ from .models.event import Event
 from .models.artist import Artist
 from .models.shout import Shout
 
-# Setup basic logging configuration
+
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
