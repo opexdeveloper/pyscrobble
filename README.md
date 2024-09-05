@@ -9,7 +9,7 @@ pyscrobble is a Python library for interacting with the Last.fm API. It allows y
 You can install `pyscrobble` via pip:
 
 ```bash
-pip install git+https://github.com/opexdeveloper/pyscrobble.git
+pip install pyscrobble
 ```
 
 ## Usage
